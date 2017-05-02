@@ -8,7 +8,7 @@ DAGGER:
 
 LONGSWORD:
 
-  DMG: 7.5
+  DMG: 10
 
   SPD: 0.9
 
@@ -46,7 +46,7 @@ FIREBALL:
 
   DMG: 5
 
-  SPD: ?
+  SPD: 1.5
 
   MANA COST: 5 (?)
 
@@ -54,7 +54,7 @@ ICE BEAM:
 
   DMG: 3
 
-  SPD: ?
+  SPD: 1.2
 
   MANA COST: ?
 
