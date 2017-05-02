@@ -2,9 +2,17 @@
 
 DAGGER:
 
-DMG: 5
+  DMG: 5
 
-SPD: 1.1
+  SPD: 1.1
+
+LONGSWORD:
+
+  DMG: 7.5
+
+  SPD: 0.9
+
+]
 
 [ LVL 1 MONSTER:
 
@@ -13,5 +21,43 @@ HP: 20
 SPD: 1
 
 DMG: 5
+
+]
+
+[ MANA:  (Bought in shop in beginning)  (To be agreed on later)
+
+20 MANA:
+
+  COST: 10
+
+30 MANA:
+
+  COST: 15
+
+40 MANA:
+
+  COST: 20
+
+]
+
+[ MAGIC ATTACKS:
+
+FIREBALL:
+
+  DMG: 5
+
+  SPD: ?
+
+  MANA COST: 5 (?)
+
+ICE BEAM:
+
+  DMG: 3
+
+  SPD: ?
+
+  MANA COST: ?
+
+  EFFECTS: 1 FREE TURN
 
 ]
