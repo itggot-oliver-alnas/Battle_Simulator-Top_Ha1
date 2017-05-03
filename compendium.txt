@@ -2,7 +2,7 @@
 
   [ X ] TOWN:
 
-    [ O ] DAGGER:
+    [ X ] DAGGER:
 
       DMG: 5
 
@@ -24,7 +24,19 @@
 
       SPECIAL: If paired with shield, 30% chance to block all damage and counterattack for 100% DMG.
 
-    ]
+    [ X ] LEATHER ARMOR:
+
+      DMG REDUCTION: 15%
+
+      SPECIAL: Can catch fire.
+
+      SPD: 0.1
+
+    [ X ] STEEL ARMOR:
+
+      DMG REDUCTION: 30%
+
+      SPD: -0.1
 
 [ X ] MONSTERS:
 
@@ -102,11 +114,19 @@
 
 [ X ] MANA:  (Bought in shop in beginning)  (To be agreed on later)
 
+[ X ] APPRENTICE HEALTH ORB:
+
+  COST: 50 Gold
+
+  Powers up whoever uses the orb to increase the max health of whoever uses it
+
+  Unlocks Tier 1 Warrior: 50 HEALTH MAX.
+
 [ X ] APPRENTICE MANA ORB:
 
   COST: 100 Gold
 
-  Unlocks the magical abilites of whoever the orb is used on.
+  Unlocks the magical abilities of whoever the orb is used on.
 
   Unlocks Tier 1 Mage: 20 MANA MAX.
 
@@ -114,19 +134,19 @@
 
   COST: 10
 
-  Grants 20 MANA.
+  Restores 20 MANA.
 
 [ X ] MODEST MANA POTION:
 
   COST: 25
 
-  Grants 40 MANA.
+  Restores 40 MANA.
 
 [ X ] MAJOR MANA POTION:
 
   COST: 50
 
-  Grants 80 MANA.
+  Restores 80 MANA.
 
 ]
 
