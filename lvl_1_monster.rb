@@ -1,6 +1,6 @@
 def room_1
   char_health = 50
-  char_mana_max = 0
+  char_mana_max = 20
   #char_health = File.read("char.txt")
   monster_health = 20
   monster_speed = 1

@@ -2,7 +2,7 @@
 
   [ X ] TOWN:
 
-    [ X ] DAGGER:
+    [ O ] DAGGER:
 
       DMG: 5
 
@@ -132,7 +132,7 @@
 
 [ X ] MAGIC:
 
-FIREBALL:
+[ X ] FIREBALL:
 
   DMG: 8
 
@@ -150,6 +150,8 @@ FIREBALL:
 
 [ X ] MINOR HEAL:
 
+  HEAL: 12
 
+  MANA COST: 6
 
 ]
