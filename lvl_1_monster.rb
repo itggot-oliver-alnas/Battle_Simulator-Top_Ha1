@@ -1,3 +1,5 @@
+require_relative "char_gear.rb"
+
 def room_1
   char_health = 50
   char_mana_max = 20
