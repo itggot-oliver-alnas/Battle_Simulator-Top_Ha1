@@ -1,0 +1,155 @@
+[ X ] ARMORY:
+
+  [ X ] TOWN:
+
+    [ X ] DAGGER:
+
+      DMG: 5
+
+      SPD: 1.2
+
+    [ X ] LONGSWORD:
+
+      DMG: 10
+
+      SPD: 1
+
+      TRAIT: DUAL WIELD (If two swords are dual-wielded, increase DMG by half of the seconday weapon, increase incoming damage by 15% but increase DMG by 15%, 10% chance to counterattack for 50% of DMG)
+
+    [ X ] SPEAR:
+
+      DMG: 10
+
+      SPD: 1
+
+      SPECIAL: If paired with shield, 30% chance to block all damage and counterattack for 100% DMG.
+
+    ]
+
+[ X ] MONSTERS:
+
+  [ X ] FLOOR 1
+
+    [ X ] LVL 1 MONSTER: GOBLIN
+
+      HP: 20
+
+      SPD: 1
+
+      DMG: 5
+
+      REWARD: 1-2 gold, 50% to drop 1-2 leather, 5% to drop iron bar.
+
+    [ X ] LVL 2 MONSTER: UNDEAD SOLDIER
+
+      HP: 40
+
+      SPD: 1
+
+      DMG: 8
+
+      SPECIAL: 10% damage reduction due to soldiers armor.
+
+      TRAITS: UNDEAD (Immune to Disease, Poison, Life Drain)
+
+      REWARD: 4-6 gold, 100% to drop bone, 20% chance to drop iron bar.
+
+    [ X ] LVL 3 MONSTER: RAGING PHANTOM
+
+      HP: 30
+
+      SPD: 1
+
+      DMG: 12
+
+      SPECIAL: 10% chance to give "Curse" (Can't use any healing for 2 turns) debuff upon attack.
+
+      TRAITS: ETHEREAL (10% chance to ignore receiving damage.)
+
+      REWARD: 5-15 gold, 20% 1x Minor Wrath Shard, 30% Soul Essence.
+
+    [ X ] LVL 4 MONSTER: BLACK GUARDIAN
+
+      HP: 60
+
+      SPD: 0.6
+
+      DMG: 18
+
+      TRAITS: HEAVY ARMOR (Always attacks last but is immune to all attacks that do less than 10 damage)
+
+      REWARD: 20-25 gold, 50% Iron Bar, 10% Black Steel Bar, 3% Human Heart, 1% Order of the Dark Ones Armor.
+
+    [ X ] LVL 5 MONSTER: GOBLIN CAPTAIN
+
+      HP: 80
+
+      INT: 40 (+3 per round)
+
+      SPD: 1.1
+
+      DMG: 16
+
+      MAGIC: FIREBALL 8 DMG (10% to apply MINOR BURNING (4 DMG per turn). 8 Mana.)
+
+      TRAITS: LEADER (All other enemy minions deal 10% more damage)
+
+      SPECIAL: Starts battle with 2x GOBLIN minions.
+
+      REWARD: 42-50 gold, 100% 2nd Floor Door Key, 20% Iron Bar, 40% Minor Soul, 30% Fireball Tome.
+
+    ]
+
+[ X ] MANA:  (Bought in shop in beginning)  (To be agreed on later)
+
+[ X ] APPRENTICE MANA ORB:
+
+  COST: 100 Gold
+
+  Unlocks the magical abilites of whoever the orb is used on.
+
+  Unlocks Tier 1 Mage: 20 MANA MAX.
+
+[ X ] MINOR MANA POTION:
+
+  COST: 10
+
+  Grants 20 MANA.
+
+[ X ] MODEST MANA POTION:
+
+  COST: 25
+
+  Grants 40 MANA.
+
+[ X ] MAJOR MANA POTION:
+
+  COST: 50
+
+  Grants 80 MANA.
+
+]
+
+[ X ] MAGIC:
+
+FIREBALL:
+
+  DMG: 8
+
+  MANA COST: 8
+
+  SPECIAL: 10% to apply MINOR BURNING (4 DMG per turn) Removes 0.2 from FREEZE bar.
+
+[ X ] ICE SHARD:
+
+  DMG: 3
+
+  MANA COST: 3
+
+  SPECIAL: Adds 0.5 to FREEZE bar (If FREEZE bar reaches 10, the target is frozen for 1 turn)
+
+[ X ] MINOR HEAL:
+
+
+
+]
