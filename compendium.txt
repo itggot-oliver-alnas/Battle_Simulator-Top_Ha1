@@ -14,7 +14,7 @@
 
       SPD: 1
 
-      TRAIT: DUAL WIELD (If two swords are dual-wielded, increase DMG by half of the seconday weapon, increase incoming damage by 15% but increase DMG by 15%, 10% chance to counterattack for 50% of DMG)
+      TRAIT: DUAL WIELD (If two swords are dual-wielded, increase DMG by half of the secondary weapon, increase incoming damage by 15% but increase DMG by 15%, 10% chance to counterattack for 50% of DMG)
 
     [ X ] SPEAR:
 
