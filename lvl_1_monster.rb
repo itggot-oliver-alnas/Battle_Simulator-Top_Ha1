@@ -35,7 +35,7 @@ Goblin HP: #{monster_health}
     #running = false
     input = gets.chomp.to_i
     if input == 0
-      #monster_health = monster_health - @char_damage
+      monster_health = monster_health - @char_damage
     elsif char_mana_max > 0
       if input == 1
         puts ""
