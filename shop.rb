@@ -74,7 +74,7 @@ def shop
         weapon_1 = true
         buy_lsword = false
         choice2 = true
-      elsif buy == 0 && buy_spear == true && gold >= 15#cost of spear
+      elsif buy == 0 && buy_spear == true && weapon_0 = true && gold >= 15#cost of spear
         #Buy spear
         weapon_2 = true
         buy_spear = false
