@@ -1,16 +1,19 @@
 #require_relative "start_adventure.rb"
 
+@weapon = 1
+
 def character_damage
   char_damage = 0
-  if weapon == 0
+  if @weapon == 0
     char_damage = 5
     @char_speed = 1.2
-  elsif weapon == 1 or weapon == 2
+  elsif @weapon == 1 or @weapon == 2
     char_damage = 10
     @char_speed = 1
-  end
   return char_damage
 end
+
+character_damage
 
 def shield_stats
   if shield == 0
@@ -30,5 +33,5 @@ def armor_stats
     @char_speed = @char_speed - 0.1
   end
   return dmg_reduction
-#Damage reduction depends on what shield and armor is equepped. Look in compendium for stats, then come back here and write the code. monster_damage*dmg_reduction
+  #Damage reduction depends on what shield and armor is equepped. Look in compendium for stats, then come back here and write the code. monster_damage*dmg_reduction
 end
