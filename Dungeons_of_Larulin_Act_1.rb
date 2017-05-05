@@ -14,7 +14,7 @@ def town
     if go_to == 0
       require_relative "lvl_1_monster.rb"
     elsif go_to == 1
-      require_relative "shop.rb"
+      require_relative "shop_new.rb"
     elsif go_to == 2
 
     elsif go_to == 3
