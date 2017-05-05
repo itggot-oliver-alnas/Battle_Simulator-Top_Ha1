@@ -3,8 +3,8 @@ def town
   running = true
   var = 0
   while running
-    puts "[#{var}] Go to Dungeon [ X ]"
-    puts "[#{var += 1}] Visit the Shop [ X ]"
+    puts "[#{var}] Go to Dungeon"
+    puts "[#{var += 1}] Visit the Shop"
     puts "[#{var += 1}] Visit the Blacksmithess [ X ]"
     puts "[#{var += 1}] Visit the Sorcerer [ X ]"
     puts "[#{var += 1}] View Inventory [ X ]"

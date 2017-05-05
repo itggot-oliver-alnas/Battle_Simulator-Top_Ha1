@@ -38,6 +38,12 @@
 
       SPD: -0.1
 
+    [ X ] BLACK ONES ARMOR
+
+      DMG REDUCTION: 0%
+
+      SPD: -0.7
+
 [ X ] MONSTERS:
 
   [ X ] FLOOR 1
@@ -70,7 +76,7 @@
 
       HP: 30
 
-      SPD: 1
+      SPD: 1.1
 
       DMG: 12
 
@@ -78,13 +84,13 @@
 
       TRAITS: ETHEREAL (10% chance to ignore receiving damage.)
 
-      REWARD: 5-15 gold, 20% 1x Minor Wrath Shard, 30% Soul Essence.
+      REWARD: 5-15 gold, 20% Minor Wrath Shard, 30% Soul Essence.
 
     [ X ] LVL 4 MONSTER: BLACK GUARDIAN
 
       HP: 60
 
-      SPD: 0.6
+      SPD: 0.3
 
       DMG: 18
 
@@ -158,7 +164,7 @@
 
   MANA COST: 8
 
-  SPECIAL: 10% to apply MINOR BURNING (4 DMG per turn) Removes 0.2 from FREEZE bar.
+  SPECIAL: 20% to apply MINOR BURNING (4 DMG per turn) Removes 0.2 from FREEZE bar.
 
 [ X ] ICE SHARD:
 
