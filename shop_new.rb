@@ -26,8 +26,11 @@ Welcome to the general store!"
     end
 
     case lines
-    when ["Shop Categories"]
-      puts "[#{}]"
+    when "[Shop Categories]"
+      lines.each do |cat, index|
+        puts "[#{index}] #{cat}"
+
+      end
 
     end
 
