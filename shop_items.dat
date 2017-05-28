@@ -1,11 +1,10 @@
-[Shop_Categories]
-Weapons
-Shields
-Armor
-
 [Weapons]
 Dagger;5;15
 Longsword;20;20
 Spear;10;90
 Bow;10;10
 Crossbow;1337;1337
+[Shields]
+Buckler;0;0
+[Armor]
+Chainmail;0;0
