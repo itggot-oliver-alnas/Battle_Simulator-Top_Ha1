@@ -2,8 +2,6 @@ require 'byebug'
 
 def shop
   running = true
-  var = 0
-  var2 = -1
   choice = false
   choice2 = false
   gold = 200
@@ -19,8 +17,8 @@ def shop
 Welcome to the general store!"
   while running
     if choice == false
-      puts "
-      So, what'll it be?"
+      puts "So, what'll it be?"
+      puts ""
     else
       if choice2 == false
         puts "Very well."
@@ -40,7 +38,12 @@ Welcome to the general store!"
         items[key] << line
       end
     end
-
+    puts "[Weapons]"
+    puts items["Weapons"]
+    puts "[Shields]"
+    puts items["Shields"]
+    puts "[Armor]"
+    puts items["Armor"]
   end
 end
 

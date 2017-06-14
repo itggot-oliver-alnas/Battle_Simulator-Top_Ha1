@@ -13,7 +13,7 @@ def room_1
   puts "
 
 
-Battle start!"
+  Battle start!"
   puts "A goblin approaches!"
   sleep(3)
   while running == true
@@ -21,10 +21,10 @@ Battle start!"
 
 
 
-Your health: #{char_health}
-Goblin HP: #{monster_health}
+    Your health: #{char_health}
+    Goblin HP: #{monster_health}
 
-[#{var}] ATTACK"
+    [#{var}] ATTACK"
     if char_mana_max > 0
       puts "[#{var += 1}] MAGIC"
     end

@@ -5,6 +5,8 @@ Spear;10;90
 Bow;10;10
 Crossbow;1337;1337
 [Shields]
-Buckler;0;0
+Buckler;1;5
 [Armor]
-Chainmail;0;0
+Chainmail;69;69
+Leather Jacket;10;10
+Crusader Armor;50;50

@@ -12,9 +12,9 @@ def town
     puts "[#{var += 1}] Save and Quit [ X ]"
     go_to = gets.chomp.to_i
     if go_to == 0
-      require_relative "lvl_1_monster.rb"
+      system "ruby goblin.rb"
     elsif go_to == 1
-      require_relative "shop_new.rb"
+      system "ruby shop_v2.rb"
     elsif go_to == 2
 
     elsif go_to == 3
@@ -26,6 +26,7 @@ def town
     elsif go_to == 6
 
     end
+    var = 0
   end
 end
 
